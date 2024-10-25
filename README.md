@@ -1,5 +1,6 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 <h1 align="center">Hi 👋, I'm Devesh Attri</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">
   I am a Data Science & Machine Learning student from India
 </h3>
