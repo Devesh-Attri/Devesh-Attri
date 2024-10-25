@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Attri</h1>
 <h3 align="center">I am a Data Science & Machine Learning student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh-attri&label=Profile%20views&color=0e75b6&style=flat" alt="devesh-attri" /> </p>
+<p align="left"> <img src="https://cdn.geekwire.com/wp-content/uploads/2023/06/3743d9d0-77a9-4f15-8e09-b755373102f0.jpeg" alt="devesh-attri" /> </p>
 
 - 🔭 I’m currently working on an [AI-Driven Voice Security System for Women](https://github.com/Devesh-Attri/AegisAlert_model_repo)
 
