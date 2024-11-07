@@ -1,4 +1,4 @@
-![MasterHead](https://techezier.com/wp-content/uploads/2022/08/web-development-1.gif)
+![MasterHead](https://bluedotmarketing.ca/wp-content/uploads/2023/01/vnu-m672-14.png)
 <h1 align="center">Hi 👋, I'm Devesh Attri</h1>
 <h3 align="center">
   I am a Data Science & Machine Learning student from India
@@ -17,16 +17,14 @@
   />
 </p>
 
-- 🔭 I’m currently working on an [AI-Driven Voice Security System for
-Women](https://github.com/Devesh-Attri/AegisAlert_model_repo) - 🌱 I’m currently
-learning **Generative AI** - 💼 I’m looking to for an Internship in the field of
-**Data Science and Machine Learning** - 📝 I regularly read articles based on
-**Recent Advancements in Artificial Intelligence and LLM's.** - 💬 Ask me about
-**Machine Learning, Data Analysis and Data Science** - 📫 How to reach me
-**deveshattri16@gmail.com** - 📄 Know about my experiences
-[https://flowcv.com/resume/ebikcvtl4n](https://flowcv.com/resume/ebikcvtl4n) -
-⚡ Fun fact **I’m like an Excel spreadsheet: sometimes I look complicated, but
-I’m really just trying to organize my thoughts!:)**
+- 🔭 I’m currently working on an [AI-Driven Voice Security System for Women](https://github.com/Devesh-Attri/AegisAlert_model_repo)
+- 🌱 I’m currently learning **Generative AI**
+- 💼 I’m looking to for an Internship in the field of **Data Science and Machine Learning.**
+- 📝 I regularly read articles based on **Recent Advancements in Artificial Intelligence and LLM's.**
+- 💬 Ask me about **Machine Learning, Data Analysis and Data Science.**
+- 📫 How to reach me **deveshattri16@gmail.com**
+- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/ebikcvtl4n)
+- ⚡ Fun fact **I’m like an Excel spreadsheet: sometimes I look complicated, but I’m really just trying to organize my thoughts!:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -234,4 +232,4 @@ I’m really just trying to organize my thoughts!:)**
   
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh-attri&show_icons=true&locale=en&layout=compact" alt="devesh-attri" />
-  </p>  
+  </p>
