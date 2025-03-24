@@ -19,9 +19,8 @@
 
 - 🔭 I’m currently working on an [AI-Driven Voice Security System for Women](https://github.com/Devesh-Attri/AegisAlert_model_repo)
 - 🌱 I’m currently learning **Generative AI**
-- 💼 I’m looking to for an Internship in the field of **Data Science and Machine Learning.**
 - 📝 I regularly read articles based on **Recent Advancements in Artificial Intelligence and LLM's.**
-- 💬 Ask me about **Machine Learning, Data Analysis and Data Science.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Analysis and Data Science.**
 - 📫 How to reach me **deveshattri16@gmail.com**
 - 📄 Know about my experiences [My Resume](https://flowcv.com/resume/ebikcvtl4n)
 - ⚡ Fun fact **I’m like an Excel spreadsheet: sometimes I look complicated, but I’m really just trying to organize my thoughts!:)**
