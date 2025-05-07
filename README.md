@@ -211,24 +211,20 @@
 </p>
 
 <table>
-    <tr>
-      <td align="center">
-        <p align="center">
-          <a href="https://github.com/devesh-attri">
-            <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-attri&" alt="devesh-attri" />
-          </a>
-        </p>
-      </td>
-      <td align="center">
-        <p align="center">
-          <a href="https://github.com/devesh-attri">
-            <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=devesh-attri&show_icons=true&locale=en" alt="devesh-attri" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh-attri&show_icons=true&locale=en&layout=compact" alt="devesh-attri" />
-  </p>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/devesh-attri">
+          <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=devesh-attri&show_icons=true&locale=en" alt="devesh-attri" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://github.com/devesh-attri">
+          <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-attri&layout=compact&langs_count=5&theme=dracula" alt="devesh-attri" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
