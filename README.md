@@ -17,7 +17,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on an [AI-Driven Voice Security System for Women](https://github.com/Devesh-Attri/AegisAlert_model_repo)
+- 🔭 I’m currently working as a *Research Fellow* at **Delhi Technical University (Formely DCE).**
 - 🌱 I’m currently learning **Generative AI**
 - 📝 I regularly read articles based on **Recent Advancements in Artificial Intelligence and LLM's.**
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Analysis and Data Science.**
