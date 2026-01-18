@@ -21,7 +21,7 @@
 - 📝 I regularly read articles based on **Recent Advancements in Artificial Intelligence and LLM's.**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Data Analysis and Data Science.**
 - 📫 How to reach me **deveshattri16@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jAxpQisXPn3EJqF9q9KwFoZy2kCkA6zE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mzRbpLzEedRGGCIownYunPJH__DfK1fU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
