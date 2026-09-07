@@ -23,7 +23,7 @@
 * 🔬 I have previously worked as an *AI Research Intern* at **DRDO Young Scientists Lab, Bangalore**, and as a *Computer Vision Intern* at **Zivi Farms.**
 * 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs and Data Science.**
 * 📫 How to reach me **[deveshattri16@gmail.com](mailto:deveshattri16@gmail.com)**
-* 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yubXxqycwiPoo3ypGfrs529rfRmK1uhf/view?usp=sharing)
+* 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RWxGlrlPADL_YJggEo3Mo2a-2pztUlVS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
