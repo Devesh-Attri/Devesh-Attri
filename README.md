@@ -1,7 +1,8 @@
 ![MasterHead](https://bluedotmarketing.ca/wp-content/uploads/2023/01/vnu-m672-14.png)
+
 <h1 align="center">Hi 👋, I'm Devesh Attri</h1>
 <h3 align="center">
-  I am a Data Science & Machine Learning student from India
+  I am a Data Science & Artificial Intelligence student at IIT Madras & University of Birmingham
 </h3>
 <img
   align="right"
@@ -17,11 +18,12 @@
   />
 </p>
 
-- 🔭 I’m currently working as a *AI Research Intern* at **DRDO.**
-- 📝 I regularly read articles based on **Recent Advancements in Artificial Intelligence and LLM's.**
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Data Analysis and Data Science.**
-- 📫 How to reach me **deveshattri16@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1mzRbpLzEedRGGCIownYunPJH__DfK1fU/view?usp=sharing)
+* 🔭 I’m currently pursuing a *Joint Masters in Data Science & Artificial Intelligence* at **IIT Madras & University of Birmingham.**
+* 🧠 I’m interested in **Computer Vision, Deep Learning, Multimodal Learning, Generative AI and LLMs.**
+* 🔬 I have previously worked as an *AI Research Intern* at **DRDO Young Scientists Lab, Bangalore**, and as a *Computer Vision Intern* at **Zivi Farms.**
+* 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Generative AI, LLMs and Data Science.**
+* 📫 How to reach me **[deveshattri16@gmail.com](mailto:deveshattri16@gmail.com)**
+* 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yubXxqycwiPoo3ypGfrs529rfRmK1uhf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,11 +35,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/devesh attri" target="blank"
+  <a href="https://linkedin.com/in/devesh-attri" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="devesh attri"
+      alt="devesh-attri"
       height="30"
       width="40"
   /></a>
@@ -45,15 +47,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-      alt="devesh attri"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/@i_am_devesh_attri" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="@i_am_devesh_attri"
+      alt="deveshattri"
       height="30"
       width="40"
   /></a>
@@ -83,8 +77,7 @@
       alt="scikit_learn"
       width="40"
       height="40"
-    />
-  </a>
+  /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
@@ -144,7 +137,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png"
+      src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg"
       alt="flask"
       width="40"
       height="40"
@@ -192,7 +185,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -208,12 +201,12 @@
   </a>
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <p align="center">
         <a href="https://github.com/devesh-attri">
-          <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=devesh-attri&show_icons=true&locale=en" alt="devesh-attri" />
+          <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=devesh-attri&show_icons=true&theme=dracula" alt="devesh-attri" />
         </a>
       </p>
     </td>
@@ -225,4 +218,4 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
